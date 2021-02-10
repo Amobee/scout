@@ -1,9 +1,6 @@
 # scout
 Fast substring matching
 
-Anand Natrajan
-9/Feb/2021
-
 The Scout algorithm is a new algorithm for finding a pattern string inside a target string. This open-source version implements it as an alternative to the `indexOf` method available as a Java built-in.
 
 The `indexOf` method finds the first location of the pattern in the target. The method takes two parameters. The first, called `target`, is the sequence of characters to check. The second, called `pattern`, is the sequence of characters to find. The method returns the first index of the pattern, or -1 if the pattern is absent in the target.
